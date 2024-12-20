@@ -2,15 +2,15 @@
   "author": "ryuko",
   "developermode": false,
   "language": "en",
-  "approval": false,
+  "approval": true,
   "premium": false,
-  "BOTNAME": "ryuko",
-  "PREFIX": "-",
+  "BOTNAME": "kazuma ( ! )",
+  "PREFIX": "!",
   "OPERATOR": [
-    ""
+    "100077357343941"
   ],
   "ADMINBOT": [
-    ""
+    "100077357343941"
   ],
   "GROUPCHATID": [
     "YOUR-GROUP-CHAT-ID"
